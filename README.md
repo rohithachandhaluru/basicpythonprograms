@@ -29,4 +29,4 @@ learn basics about python :
       
       14 - To print cubes of n numbers
 
-      https://colab.research.google.com/drive/1Zx1nyQL3JD39MSFW_GoIEJBgsJpKe9fO?usp=sharing
+https://colab.research.google.com/drive/1Zx1nyQL3JD39MSFW_GoIEJBgsJpKe9fO?usp=sharing
