@@ -1,6 +1,7 @@
 # basicpythonprograms
 learn basics about python :
-1 - To find the given number is even or odd
+
+      1 - To find the given number is even or odd
 
       2 - To find reverse of a number
       
@@ -27,3 +28,5 @@ learn basics about python :
       13 - To print squares of n numbers
       
       14 - To print cubes of n numbers
+
+      https://colab.research.google.com/drive/1Zx1nyQL3JD39MSFW_GoIEJBgsJpKe9fO?usp=sharing
